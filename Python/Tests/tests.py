@@ -1,5 +1,4 @@
 '''
-CBP Token tests
 created by Delerex.com
 (c) 2018 Delerex Pte Ltd
 '''
@@ -55,8 +54,6 @@ class Reporting_API:
         print(f"Units        : {self.units}")
         print(f"Owner        : {self.owner}")
         print(f"Auditor      : {self.auditor}")
-#        print(f"Parameter    :")
-#        print(self.parameters)
         print(f"Dates        : {self.dates}")
         print(f"Audited      : {self.get_audit_result()}")
         for i in self.parameters:
@@ -116,7 +113,7 @@ class Reporting_API:
             date = self.timestamp
         if isinstance(date, datetime):
             date = int(date.timestamp())
-        value = self.contract.functions.report(date, parameter_id).call()
+        value = self.contract.functions.values(date, parameter_id).call()
         return self.DecimalToFloat(value)
 
     def get_auditor_address(self):
