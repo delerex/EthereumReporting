@@ -236,6 +236,30 @@
       "0x1ea472ac21bec33c1f2ea22b78e54d608d4a80b70e1bfcd915775b23f83aeec4": {
         "name": "Reporting",
         "address": "0xc3fcb0db38A31e5eE12D60dca98E3aCc753a55D9"
+      },
+      "0x6b5b44fe2db69e779b97add8a6b16ab389b06d3281083d8b415a3caaac34b893": {
+        "name": "Audited",
+        "address": "0x607D3Fdda1b8bbe1cA7D43dBA7dAF6e4c5b3c0ac"
+      },
+      "0x0ae372363ce93fb4a99e4e3d94133a65dc7fe55456e1770bf36943785d69cce4": {
+        "name": "Reporting",
+        "address": "0x59D8879eEF830dDA7d88D10E35C7B2cF038B33F1"
+      },
+      "0xab60f2d713da1ffd5f33b8ee1f47f4e93e3861c893d73a31c74eeaa322750fcd": {
+        "name": "Reporting",
+        "address": "0xebfBDa0F3cA6034ACe216Af75E57f7142674cfe3"
+      },
+      "0xc6372b6888780c58b121e6aeca4905d28d9eab95bc5f0545255586dc724c10ff": {
+        "name": "Reporting",
+        "address": "0x61c6e9EeA406231a402788D8FbCBEDBb7ab6b9b1"
+      },
+      "0x3d977e8a15e56609b6792d240a70098f6d54a51b9575beb575f5a1043a72f942": {
+        "name": "Reporting",
+        "address": "0xC2866aFd9594fAfE4e4B3b41b989Da84cA818783"
+      },
+      "0x941ba58e1314ef8f75725a92c4649ce77ebb0369a75e6250b70a2a8096f253ec": {
+        "name": "Reporting",
+        "address": "0x6DEf7bDD45B0Fb7863398724A28630fEFAD9613a"
       }
     }
   }
