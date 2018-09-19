@@ -4,13 +4,13 @@ Financial reporting based on Ethereum
 
 # Abstract
 The following interface allows creating financial statements and balance sheets.
-We beliive such conctract can be created by a company to put finansial statements such as balance sheet to blockchain.  Data could be audited by third party, to confirm equality of figures.
-Then such data can be publically accessible in Ethereum blockchain by investors, algorithms and other interested parties.
+We believe such contract will be deployed by a company to put financial statements such as balance sheet to blockchain. Data could be audited by third party, to confirm equality of figures.
+Then such data and all modifications can be accessible in Ethereum blockchain by investors, algorithms and other interested parties.
 
 # Motivation
 A standard interface allows contract owner to setup parameters, and then set values on a certain date, set the auditor and give a possibilty to confirm integrity of data to the auditor. 
 
-We strongly believe that growing interest to security tokens will require proper interface to track peorformance in a brand new way. 
+We strongly believe that growing interest to security tokens will require proper interface to track emitents performance in a brand new way. 
 
 Such interface can be added to security token to give investors fast and easy access to financial statements. 
 
